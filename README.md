@@ -1,9 +1,9 @@
-### Hi! I'm Geickson Oliveira 👋
+### Ola! Eu sou Geickson Oliveira 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 Atualmente estou estudando HTML, CSS, Javascript
 
-- ⚡ Objective Web development full stack
+- ⚡ Objetivo inicial: me tornar desenvolvedor web full stack!
 <div>
   <a href="https://github.com/geickoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geickoliveira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
